@@ -55,7 +55,7 @@ function makeSound(key) {
       audio.play();
       break;
 
-    case "J":
+    case "j":
       var audio = new Audio('sounds/punch-boxing-02wav-14897');
       audio.play();
       break;
