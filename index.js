@@ -31,7 +31,7 @@ function makeSound(key) {
 
   switch (key) {
     case "A":
-      var audio = new Audio('sounds/drum-roll-12-153701.mp3');
+      var audio = new Audio('sounds/snare.mp3');
       audio.play();
       break;
 
