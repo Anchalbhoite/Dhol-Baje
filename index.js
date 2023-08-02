@@ -36,7 +36,7 @@ function makeSound(key) {
       break;
 
     case "Y":
-      var audio = new Audio('sounds\drum-roll-13-153700.mp3');
+      var audio = new Audio('sounds/drum-roll-13-153700.mp3');
       audio.play();
       break;
 
@@ -55,7 +55,7 @@ function makeSound(key) {
       audio.play();
       break;
 
-    case "j":
+    case "J":
       var audio = new Audio('sounds/punch-boxing-02wav-14897');
       audio.play();
       break;
