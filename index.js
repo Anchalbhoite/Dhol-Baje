@@ -30,37 +30,37 @@ document.addEventListener("keypress", function(event) {
 function makeSound(key) {
 
   switch (key) {
-    case "w":
+    case "A":
       var audio = new Audio('sounds/drum-roll-12-153701.mp3');
       audio.play();
       break;
 
-    case "a":
+    case "Y":
       var audio = new Audio('sounds\drum-roll-13-153700.mp3');
       audio.play();
       break;
 
-    case "s":
+    case "S":
       var audio = new Audio('sounds/drum-roll-14-153702');
       audio.play();
       break;
 
-    case "d":
+    case "E":
       var audio = new Audio('sounds/failure-drum-sound-effect-2-7184');
       audio.play();
       break;
 
-    case "j":
+    case "D":
       var audio = new Audio('sounds/hit-drum-superclasher-cinematic-trailer-sound-effects-124759');
       audio.play();
       break;
 
-    case "k":
+    case "J":
       var audio = new Audio('sounds/punch-boxing-02wav-14897');
       audio.play();
       break;
 
-    case "l":
+    case "O":
       var audio = new Audio('sounds/sting-rimshot-drum-roll-smooth-100369');
       audio.play();
       break;
