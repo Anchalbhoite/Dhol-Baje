@@ -41,27 +41,27 @@ function makeSound(key) {
       break;
 
     case "S":
-      var audio = new Audio('sounds/drum-roll-14-153702');
+      var audio = new Audio('sounds/drum-roll-14-153702.mp3');
       audio.play();
       break;
 
     case "E":
-      var audio = new Audio('sounds/failure-drum-sound-effect-2-7184');
+      var audio = new Audio('sounds/failure-drum-sound-effect-2-7184.mp3');
       audio.play();
       break;
 
     case "D":
-      var audio = new Audio('sounds/hit-drum-superclasher-cinematic-trailer-sound-effects-124759');
+      var audio = new Audio('sounds/hit-drum-superclasher-cinematic-trailer-sound-effects-124759.mp3');
       audio.play();
       break;
 
     case "J":
-      var audio = new Audio('sounds/punch-boxing-02wav-14897');
+      var audio = new Audio('sounds/punch-boxing-02wav-14897.mp3');
       audio.play();
       break;
 
     case "O":
-      var audio = new Audio('sounds/sting-rimshot-drum-roll-smooth-100369');
+      var audio = new Audio('sounds/sting-rimshot-drum-roll-smooth-100369.mp3');
       audio.play();
       break;
 
