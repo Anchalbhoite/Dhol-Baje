@@ -31,37 +31,37 @@ function makeSound(key) {
 
   switch (key) {
     case "w":
-      var audio = new Audio('sounds/tom-1.mp3');
+      var audio = new Audio('sounds/drum-roll-12-153701.mp3');
       audio.play();
       break;
 
     case "a":
-      var audio = new Audio('sounds/tom-2.mp3');
+      var audio = new Audio('sounds\drum-roll-13-153700.mp3');
       audio.play();
       break;
 
     case "s":
-      var audio = new Audio('sounds/tom-3.mp3');
+      var audio = new Audio('sounds/drum-roll-14-153702');
       audio.play();
       break;
 
     case "d":
-      var audio = new Audio('sounds/tom-4.mp3');
+      var audio = new Audio('sounds/failure-drum-sound-effect-2-7184');
       audio.play();
       break;
 
     case "j":
-      var audio = new Audio('sounds/snare.mp3');
+      var audio = new Audio('sounds/hit-drum-superclasher-cinematic-trailer-sound-effects-124759');
       audio.play();
       break;
 
     case "k":
-      var audio = new Audio('sounds/crash.mp3');
+      var audio = new Audio('sounds/punch-boxing-02wav-14897');
       audio.play();
       break;
 
     case "l":
-      var audio = new Audio('sounds/kick-bass.mp3');
+      var audio = new Audio('sounds/sting-rimshot-drum-roll-smooth-100369');
       audio.play();
       break;
 
