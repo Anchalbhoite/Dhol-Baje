@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #7A48DD;
+  background-color: linear-gradient(pink,purple);;
 }
 
 h1 {
@@ -17,34 +17,44 @@ footer {
 }
 
 .A{
-  background-image: url("images/tom1.png");
+  background-image: url("https://w7.pngwing.com/pngs/701/708/png-transparent-drum-sticks-on-snare-drum-drum-stick-drums-snare-drum-percussion-drums-white-musical-notation-oil-drums-thumbnail.png");
+  background-position: center;
 }
 
 .Y{
-  background-image: url("images/tom2.png");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToqXJZP5I13gasxg93Ab5btVg0aR41cpnoOpIegMBie5-k7_9z9bP5FTj02KdG6_w91iM&usqp=CAU.png");
+  background-position: 100px 200px;
 }
 
 .S{
-  background-image: url("images/tom3.png");
-}
+  background-image: url("https://w7.pngwing.com/pngs/47/33/png-transparent-bedug-drum-islamic-drum-ramadan-drum-bedug-drum-islamic-3d-icon-thumbnail.png");
+  background-position:  70px right top ;
+  }
 
 .E {
-  background-image: url("images/tom4.png");
+  background-image: url("https://w7.pngwing.com/pngs/796/450/png-transparent-hand-drum-djembe-conga-percussion-drum-oil-drums-drum-bongo-drum-thumbnail.png");
+  background-position: center top;
 }
 
 .D {
-  background-image: url("images/snare.png");
-}
+  background-image: url("https://w7.pngwing.com/pngs/937/711/png-transparent-a-snare-drum-etiquette-photography-drum-drumming-thumbnail.png");
+  background-position: center;
+} 
 
 .J {
-  background-image: url("images/crash.png");
+  background-image: url("https://w7.pngwing.com/pngs/606/795/png-transparent-drum-circle-davul-graphy-percussion-drum-photography-retro-oil-drums-thumbnail.png");
+  background-position:left  center;
 }
 
 .O {
-  background-image: url("images/kick.png");
+  background-image: url("https://w7.pngwing.com/pngs/232/168/png-transparent-red-drums-bass-drum-drums-classical-style-drumming-chinese-style-cartoon-drum-thumbnail.png");
+  background-position:  top center;
+  width: 300px;
+  height: 300px;
 }
 .M {
-  background-image: url("images/tom1.png");
+  background-image: url("https://w7.pngwing.com/pngs/877/542/png-transparent-musical-instrument-percussion-goblet-drum-drum-oil-drums-drum-tambourine-thumbnail.png");
+  background-position: center;
 }
 .set {
   margin: 10% auto;
