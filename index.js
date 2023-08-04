@@ -64,6 +64,10 @@ function makeSound(key) {
       var audio = new Audio('sounds/sting-rimshot-drum-roll-smooth-100369.mp3');
       audio.play();
       break;
+    case "M":
+      var audio = new Audio('sounds/sting-rimshot-drum-roll-smooth-100369.mp3');
+      audio.play();
+      break;
 
     default:
       console.log(buttonInnerHTML);

@@ -24,26 +24,28 @@ footer {
   background-image: url("images/tom2.png");
 }
 
-.s {
+.S{
   background-image: url("images/tom3.png");
 }
 
-.d {
+.E {
   background-image: url("images/tom4.png");
 }
 
-.j {
+.D {
   background-image: url("images/snare.png");
 }
 
-.k {
+.J {
   background-image: url("images/crash.png");
 }
 
-.l {
+.O {
   background-image: url("images/kick.png");
 }
-
+.M {
+  background-image: url("images/tom1.png");
+}
 .set {
   margin: 10% auto;
 }
